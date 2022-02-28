@@ -217,4 +217,29 @@
 * [15.5. 要把 FreeBSD 的文档翻译成我的母语，我需要做什么？](15.-za-xiang-wen-ti/15.5.-yao-ba-freebsd-de-wen-dang-fan-yi-cheng-wo-de-mu-yu-wo-xu-yao-zuo-shi-mo.md)
 * [15.6. 为什么我发给 FreeBSD.org 任何地址的邮件都会被退回？](15.-za-xiang-wen-ti/15.6.-wei-shi-mo-wo-fa-gei-freebsd.org-ren-he-di-zhi-de-you-jian-du-hui-bei-tui-hui.md)
 * [15.7. 我在哪里可以找到一个免费的 FreeBSD 账户？](15.-za-xiang-wen-ti/15.7.-wo-zai-na-li-ke-yi-zhao-dao-yi-ge-mian-fei-de-freebsd-zhang-hu.md)
-* [Page 1](15.-za-xiang-wen-ti/page-1.md)
+* [15.8. 这个可爱的红色小家伙叫什么名字？](15.-za-xiang-wen-ti/15.8.-zhe-ge-ke-ai-de-hong-se-xiao-jia-huo-jiao-shi-mo-ming-zi.md)
+* [15.9. 我可以使用 BSD 守护神的图像吗？](15.-za-xiang-wen-ti/15.9.-wo-ke-yi-shi-yong-bsd-shou-hu-shen-de-tu-xiang-ma.md)
+* [15.10. 你有什么 BSD 守护程序的图像可以让我使用吗？](15.-za-xiang-wen-ti/15.10.-ni-you-shi-mo-bsd-shou-hu-cheng-xu-de-tu-xiang-ke-yi-rang-wo-shi-yong-ma.md)
+* [15.11. 我在邮件列表中看到一个缩写或其他术语，但我不明白它的意思。我应该去哪里找？](15.-za-xiang-wen-ti/15.11.-wo-zai-you-jian-lie-biao-zhong-kan-dao-yi-ge-suo-xie-huo-qi-ta-shu-yu-dan-wo-bu-ming-bai-ta-d.md)
+* [15.12. 我为什么要关心自行车棚是什么颜色？](15.-za-xiang-wen-ti/15.12.-wo-wei-shi-mo-yao-guan-xin-zi-hang-che-peng-shi-shi-mo-yan-se.md)
+
+## 16. 趣闻轶事
+
+* [16.1. FreeBSD 有多酷？](16.-qu-wen-yi-shi/16.1.-freebsd-you-duo-ku.md)
+* [16.2. 谁在我的记忆库中抓取？](16.-qu-wen-yi-shi/16.2.-shui-zai-wo-de-ji-yi-ku-zhong-zhua-qu.md)
+* [16.3. 换一个灯泡需要多少个 FreeBSD 黑客？](16.-qu-wen-yi-shi/16.3.-huan-yi-ge-deng-pao-xu-yao-duo-shao-ge-freebsd-hei-ke.md)
+* [16.4. 写入 /dev/null 的数据会去哪里？](16.-qu-wen-yi-shi/16.4.-xie-ru-devnull-de-shu-ju-hui-qu-na-li.md)
+* [16.5. 我的同事在电脑前坐得太久了，我怎么才能恶搞她？](16.-qu-wen-yi-shi/16.5.-wo-de-tong-shi-zai-dian-nao-qian-zuo-de-tai-jiu-le-wo-zen-mo-cai-nengegao-ta.md)
+
+## 17. 高级主题
+
+* [17.1. 我怎样才能了解更多关于 FreeBSD 的内部信息？](17.-gao-ji-zhu-ti/17.1.-wo-zen-yang-cai-neng-le-jie-geng-duo-guan-yu-freebsd-de-nei-bu-xin-xi.md)
+* [17.2. 我怎样才能为 FreeBSD 做出贡献？我可以做什么来帮助？](17.-gao-ji-zhu-ti/17.2.-wo-zen-yang-cai-neng-wei-freebsd-zuo-chu-gong-xian-wo-ke-yi-zuo-shi-mo-lai-bang-zhu.md)
+* [17.3. 什么是 snapshots 和 releases?](17.-gao-ji-zhu-ti/17.3.-shi-mo-shi-snapshots-he-releases.md)
+* [17.4. 当我的内核发生 panic 时，我怎样才能充分利用我看到的数据？](17.-gao-ji-zhu-ti/17.4.-dang-wo-de-nei-he-fa-sheng-panic-shi-wo-zen-yang-cai-neng-chong-fen-li-yong-wo-kan-dao-de-shu.md)
+* [17.5. 为什么 dlsym() 对 ELF 可执行文件停止工作？](17.-gao-ji-zhu-ti/17.5.-wei-shi-mo-dlsym-dui-elf-ke-zhi-hang-wen-jian-ting-zhi-gong-zuo.md)
+* [17.6. 如何在 i386 上增加或减少内核地址空间？](17.-gao-ji-zhu-ti/17.6.-ru-he-zai-i386-shang-zeng-jia-huo-jian-shao-nei-he-di-zhi-kong-jian.md)
+
+***
+
+* [18. 鸣谢](18.-ming-xie.md)

@@ -1,6 +1,7 @@
 # Table of contents
 
 * [FAQ-12.x-13.x](README.md)
+* [概述](gai-shu.md)
 
 ## 1. 简介
 
@@ -106,7 +107,7 @@
 * [8.16. 为什么我不能挂载音频 CD？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.16.-wei-shi-mo-wo-bu-neng-gua-zai-yin-pin-cd.md)
 * [8.17. 如何挂载一张多会话光盘？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.17.-ru-he-gua-zai-yi-zhang-duo-hui-hua-guang-pan.md)
 * [8.18. 如何让普通用户挂载 CD-ROM、DVD、USB 驱动器和其他可移动媒体？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.18.-ru-he-rang-pu-tong-yong-hu-gua-zai-cdromdvdusb-qu-dong-qi-he-qi-ta-ke-yi-dong-mei-ti.md)
-* [8.19.  命令 du 和 df 显示了不同数量的可用磁盘空间。发生了什么事？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.19.-ming-ling-du-he-df-xian-shi-le-bu-tong-shu-liang-de-ke-yong-ci-pan-kong-jian-fa-sheng-le-shi-m.md)
+* [8.19. 命令 du 和 df 显示了不同数量的可用磁盘空间。发生了什么事？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.19.-ming-ling-du-he-df-xian-shi-le-bu-tong-shu-liang-de-ke-yong-ci-pan-kong-jian-fa-sheng-le-shi-m.md)
 * [8.20. 我怎样才能增加更多的交换空间？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.20.-wo-zen-yang-cai-neng-zeng-jia-geng-duo-de-jiao-huan-kong-jian.md)
 * [8.21. 为什么 FreeBSD 认为我的磁盘比制造商说的要小？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.21.-wei-shi-mo-freebsd-ren-wei-wo-de-ci-pan-bi-zhi-zao-shang-shuo-de-yao-xiao.md)
 * [8.22. 一个分区怎么可能超过 100% 的容量？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.22.-yi-ge-fen-qu-zen-mo-ke-neng-chao-guo-100-de-rong-liang.md)
@@ -170,7 +171,7 @@
 
 ***
 
-* [FAQ-12.x-13.x](<README (1).md>)
+* [FAQ-12.x-13.x](faq-12.x-13.x.md)
 
 ## 12. 网络
 

@@ -1,7 +1,6 @@
 # Table of contents
 
-* [FAQ-12.x-13.x](README.md)
-* [概述](gai-shu.md)
+* [概述](README.md)
 
 ## 1. 简介
 
@@ -145,3 +144,77 @@
 * [10.19. 为什么我不能取消 schg 文件的标志？](10.-xi-tong-guan-li/10.19.-wei-shi-mo-wo-bu-neng-qu-xiao-schg-wen-jian-de-biao-zhi.md)
 * [10.20. 什么是 vnlru？](10.-xi-tong-guan-li/10.20.-shi-mo-shi-vnlru.md)
 * [10.21. top 显示的各种内存状态是什么意思？](10.-xi-tong-guan-li/10.21.-top-xian-shi-de-ge-zhong-nei-cun-zhuang-tai-shi-shi-mo-yi-si.md)
+* [10.22. 有多少可用的内存？](10.-xi-tong-guan-li/10.22.-you-duo-shao-ke-yong-de-nei-cun.md)
+* [10.23. /var/empty 是什么？](10.-xi-tong-guan-li/10.23.-varempty-shi-shi-mo.md)
+* [10.24. 我刚刚修改了 /etc/newsyslog.conf。我怎样才能检查它是否做了我期望的事情？](10.-xi-tong-guan-li/10.24.-wo-gang-gang-xiu-gai-le-etcnewsyslog.conf-wo-zen-yang-cai-neng-jian-cha-ta-shi-fou-zuo-le-wo.md)
+* [10.25. 我的时间是错误的，我怎样才能改变时区？](10.-xi-tong-guan-li/10.25.-wo-de-shi-jian-shi-cuo-wu-de-wo-zen-yang-cai-neng-gai-bian-shi-qu.md)
+
+## 11. X 窗口系统和虚拟控制台
+
+* [11.1. 什么是 X 窗口系统？](11.x-chuang-kou-xi-tong-he-xu-ni-kong-zhi-tai/11.1.-shi-mo-shi-x-chuang-kou-xi-tong.md)
+* [11.2. 我想运行 Xorg，我该怎么做呢？](11.x-chuang-kou-xi-tong-he-xu-ni-kong-zhi-tai/11.2.-wo-xiang-yun-hang-xorg-wo-gai-zen-mo-zuo-ni.md)
+* [11.3. 我试图运行 X，但当我输入 startx 时，我得到一个没有检测到设备的错误。我现在该怎么做？](11.x-chuang-kou-xi-tong-he-xu-ni-kong-zhi-tai/11.3.-wo-shi-tu-yun-hang-xdan-dang-wo-shu-ru-startx-shi-wo-de-dao-yi-ge-mei-you-jian-ce-dao-she-bei.md)
+* [11.4. 为什么我的鼠标不能在 X 上工作？](11.x-chuang-kou-xi-tong-he-xu-ni-kong-zhi-tai/11.4.-wei-shi-mo-wo-de-shu-biao-bu-neng-zai-x-shang-gong-zuo.md)
+* [11.5. 我的鼠标有一个花哨的滚轮。我可以在 X 中使用它吗？](11.x-chuang-kou-xi-tong-he-xu-ni-kong-zhi-tai/11.5.-wo-de-shu-biao-you-yi-ge-hua-shao-de-gun-lun-wo-ke-yi-zai-x-zhong-shi-yong-ta-ma.md)
+* [11.6. 我的笔记本电脑有一个 Synaptics 触摸板。我可以在X中使用它吗？](11.x-chuang-kou-xi-tong-he-xu-ni-kong-zhi-tai/11.6.-wo-de-bi-ji-ben-dian-nao-you-yi-ge-synaptics-chu-mo-ban-wo-ke-yi-zaixzhong-shi-yong-ta-ma.md)
+* [11.7. 如何使用远程 X 显示器？](11.x-chuang-kou-xi-tong-he-xu-ni-kong-zhi-tai/11.7.-ru-he-shi-yong-yuan-cheng-x-xian-shi-qi.md)
+* [11.8. 什么是虚拟控制台，我如何获取更多？](11.x-chuang-kou-xi-tong-he-xu-ni-kong-zhi-tai/11.8.-shi-mo-shi-xu-ni-kong-zhi-tai-wo-ru-he-huo-qu-geng-duo.md)
+* [11.9. 我如何从 X 访问虚拟控制台？](11.x-chuang-kou-xi-tong-he-xu-ni-kong-zhi-tai/11.9.-wo-ru-he-cong-x-fang-wen-xu-ni-kong-zhi-tai.md)
+* [11.10. 我如何在启动时启动 XDM？](11.x-chuang-kou-xi-tong-he-xu-ni-kong-zhi-tai/11.10.-wo-ru-he-zai-qi-dong-shi-qi-dong-xdm.md)
+* [11.11. 为什么我在运行 xconsole 时得到无法打开控制台的信息？](11.x-chuang-kou-xi-tong-he-xu-ni-kong-zhi-tai/11.11.-wei-shi-mo-wo-zai-yun-hang-xconsole-shi-de-dao-wu-fa-da-kai-kong-zhi-tai-de-xin-xi.md)
+* [11.12. 为什么我的 PS/2 鼠标在 X 下表现不佳？](11.x-chuang-kou-xi-tong-he-xu-ni-kong-zhi-tai/11.12.-wei-shi-mo-wo-de-ps2-shu-biao-zai-x-xia-biao-xian-bu-jia.md)
+* [11.13. 如何扭转鼠标按钮？](11.x-chuang-kou-xi-tong-he-xu-ni-kong-zhi-tai/11.13.-ru-he-niu-zhuan-shu-biao-an-niu.md)
+* [11.14. 如何安装第一屏，在哪里可以找到它们？](11.x-chuang-kou-xi-tong-he-xu-ni-kong-zhi-tai/11.14.-ru-he-an-zhuang-di-yi-ping-zai-na-li-ke-yi-zhao-dao-ta-men.md)
+* [11.15. 我可以在 X 中使用键盘上的 Windows 键吗？](11.x-chuang-kou-xi-tong-he-xu-ni-kong-zhi-tai/11.15.-wo-ke-yi-zai-x-zhong-shi-yong-jian-pan-shang-de-windows-jian-ma.md)
+* [11.16. 我怎样才能获得 OpenGL® 的 3D 硬件加速？](11.x-chuang-kou-xi-tong-he-xu-ni-kong-zhi-tai/11.16.-wo-zen-yang-cai-neng-huo-de-opengl-de-3d-ying-jian-jia-su.md)
+
+***
+
+* [FAQ-12.x-13.x](<README (1).md>)
+
+## 12. 网络
+
+* [12.1. 我在哪里可以得到关于无盘启动的信息？](12.-wang-luo/12.1.-wo-zai-na-li-ke-yi-de-dao-guan-yu-wu-pan-qi-dong-de-xin-xi.md)
+* [12.2. FreeBSD 可以作为一个专用的网络路由器使用吗？](12.-wang-luo/12.2.-freebsd-ke-yi-zuo-wei-yi-ge-zhuan-yong-de-wang-luo-lu-you-qi-shi-yong-ma.md)
+* [12.3. FreeBSD是否支持 NAT 或 Masquerading？](12.-wang-luo/12.3.-freebsd-shi-fou-zhi-chi-nat-huo-masquerading.md)
+* [12.4. 我如何设置以太网别名？](12.-wang-luo/12.4.-wo-ru-he-she-zhi-yi-tai-wang-bie-ming.md)
+* [12.5. 为什么我不能从 Linux® 上进行 NFS 挂载？](12.-wang-luo/12.5.-wei-shi-mo-wo-bu-neng-cong-linux-shang-jin-hang-nfs-gua-zai.md)
+* [12.6. 为什么 mountd 总是告诉我它不能改变属性，而且我的 FreeBSD NFS 服务器上有一个糟糕的出口列表？](12.-wang-luo/12.6.-wei-shi-mo-mountd-zong-shi-gao-su-wo-ta-bu-neng-gai-bian-shu-xing-er-qie-wo-de-freebsd-nfs-fu.md)
+* [12.7. 如何启用 IP 组播支持？](12.-wang-luo/12.7.-ru-he-qi-yong-ip-zu-bo-zhi-chi.md)
+* [12.8. 为什么我的网站上的主机必须使用 FQDN？](12.-wang-luo/12.8.-wei-shi-mo-wo-de-wang-zhan-shang-de-zhu-ji-bi-xu-shi-yong-fqdn.md)
+* [12.9. 为什么我在所有的网络操作中都得到一个错误：拒绝许可？](12.-wang-luo/12.9.-wei-shi-mo-wo-zai-suo-you-de-wang-luo-cao-zuo-zhong-du-de-dao-yi-ge-cuo-wu-ju-jue-xu-ke.md)
+* [12.10. 为什么我的 ipfw“fwd”规则将一个服务重定向到另一台机器上，却不能工作？](12.-wang-luo/12.10.-wei-shi-mo-wo-de-ipfwfwd-gui-ze-jiang-yi-ge-fu-wu-zhong-ding-xiang-dao-ling-yi-tai-ji-qi-shan.md)
+* [12.11. 我怎样才能将服务请求从一台机器重定向到另一台？](12.-wang-luo/12.11.-wo-zen-yang-cai-neng-jiang-fu-wu-qing-qiu-cong-yi-tai-ji-qi-zhong-ding-xiang-dao-ling-yi-tai.md)
+* [12.12. 我在哪里可以得到一个带宽管理工具？](12.-wang-luo/12.12.-wo-zai-na-li-ke-yi-de-dao-yi-ge-dai-kuan-guan-li-gong-ju.md)
+* [12.13. 为什么我得到 /dev/bpf0: device not configured?](12.-wang-luo/12.13.-wei-shi-mo-wo-de-dao-devbpf0-device-not-configured.md)
+* [12.14. 我如何从我的网络上的 Windows® 机器挂载磁盘，就像 Linux® 中的 smbmount 一样？](12.-wang-luo/12.14.-wo-ru-he-cong-wo-de-wang-luo-shang-de-windows-ji-qi-gua-zai-ci-pan-jiu-xiang-linux-zhong-de-s.md)
+* [12.15. 这些信息是关于什么的：Limiting icmp/open port/closed port response in my log files?](12.-wang-luo/12.15.-zhe-xie-xin-xi-shi-guan-yu-shi-mo-de-limiting-icmpopen-portclosed-port-response-in-my-log-fil.md)
+* [12.16. 这些是什么 arp: unknown hardware address format 错误信息?](12.-wang-luo/12.16.-zhe-xie-shi-shi-mo-arp-unknown-hardware-address-format-cuo-wu-xin-xi.md)
+* [12.17. 为什么我总是看到这样的信息：192.168.0.10 is on fxp1 but got reply from 00:15:17:67:cf:82 on rl0，我如何禁用它？](12.-wang-luo/12.17.-wei-shi-mo-wo-zong-shi-kan-dao-zhe-yang-de-xin-xi-192.168.0.10-is-on-fxp1-but-got-reply-from.md)
+* [12.18. 我如何编译一个只有 IPv6 的内核？](12.-wang-luo/12.18.-wo-ru-he-bian-yi-yi-ge-zhi-you-ipv6-de-nei-he.md)
+
+## 13. 安全
+
+* [13.1. 什么是沙盒？](13.-an-quan/13.1.-shi-mo-shi-sha-he.md)
+* [13.2. 什么是 securelevel？](13.-an-quan/13.2.-shi-mo-shi-securelevel.md)
+* [13.3. 这个 UID 0 toor 账户是什么？我的身份已经暴露了吗？](13.-an-quan/13.3.-zhe-ge-uid-0-toor-zhang-hu-shi-shi-mo-wo-de-shen-fen-yi-jing-bao-lou-le-ma.md)
+
+## 14. 串行通信
+
+* [14.1. 我怎样才能使 boot: 提示输出在串行控制台上？](14.-chuan-hang-tong-xin/14.1.-wo-zen-yang-cai-neng-shi-boot-ti-shi-shu-chu-zai-chuan-hang-kong-zhi-tai-shang.md)
+* [14.2. 如何判断 FreeBSD 是否找到了我的串口或调制解调器卡？](14.-chuan-hang-tong-xin/14.2.-ru-he-pan-duan-freebsd-shi-fou-zhao-dao-le-wo-de-chuan-kou-huo-tiao-zhi-jie-tiao-qi-ka.md)
+* [14.3. 我如何在 FreeBSD 上访问串口？(x86 专用)](14.-chuan-hang-tong-xin/14.3.-wo-ru-he-zai-freebsd-shang-fang-wen-chuan-kou-x86-zhuan-yong.md)
+* [14.4. 我如何启用对多端口串行卡的支持？](14.-chuan-hang-tong-xin/14.4.-wo-ru-he-qi-yong-dui-duo-duan-kou-chuan-hang-ka-de-zhi-chi.md)
+* [14.5. 我可以为一个端口设置默认的串行参数吗？](14.-chuan-hang-tong-xin/14.5.-wo-ke-yi-wei-yi-ge-duan-kou-she-zhi-mo-ren-de-chuan-hang-can-shu-ma.md)
+* [14.6. 为什么我不能运行 tip 或 cu？](14.-chuan-hang-tong-xin/14.6.-wei-shi-mo-wo-bu-neng-yun-hang-tip-huo-cu.md)
+
+## 15. 杂项问题
+
+* [15.1. 即使计算机还有可用的内存，FreeBSD 也会使用大量的交换空间。为什么呢？](15.-za-xiang-wen-ti/15.1.-ji-shi-ji-suan-ji-huan-you-ke-yong-de-nei-cun-freebsd-ye-hui-shi-yong-da-liang-de-jiao-huan-ko.md)
+* [15.2. 为什么即使我只有很少的程序在运行，top 也会显示很少的可用内存？](15.-za-xiang-wen-ti/15.2.-wei-shi-mo-ji-shi-wo-zhi-you-hen-shao-de-cheng-xu-zai-yun-hang-top-ye-hui-xian-shi-hen-shao-de.md)
+* [15.3. 为什么 chmod 不会改变符号链接的权限？](15.-za-xiang-wen-ti/15.3.-wei-shi-mo-chmod-bu-hui-gai-bian-fu-hao-lian-jie-de-quan-xian.md)
+* [15.4. 我可以在 FreeBSD 下运行 DOS 二进制文件吗？](15.-za-xiang-wen-ti/15.4.-wo-ke-yi-zai-freebsd-xia-yun-hang-dos-er-jin-zhi-wen-jian-ma.md)
+* [15.5. 要把 FreeBSD 的文档翻译成我的母语，我需要做什么？](15.-za-xiang-wen-ti/15.5.-yao-ba-freebsd-de-wen-dang-fan-yi-cheng-wo-de-mu-yu-wo-xu-yao-zuo-shi-mo.md)
+* [15.6. 为什么我发给 FreeBSD.org 任何地址的邮件都会被退回？](15.-za-xiang-wen-ti/15.6.-wei-shi-mo-wo-fa-gei-freebsd.org-ren-he-di-zhi-de-you-jian-du-hui-bei-tui-hui.md)
+* [15.7. 我在哪里可以找到一个免费的 FreeBSD 账户？](15.-za-xiang-wen-ti/15.7.-wo-zai-na-li-ke-yi-zhao-dao-yi-ge-mian-fei-de-freebsd-zhang-hu.md)
+* [Page 1](15.-za-xiang-wen-ti/page-1.md)

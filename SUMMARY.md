@@ -1,0 +1,123 @@
+# Table of contents
+
+* [FAQ-12.x-13.x](README.md)
+* [概述](gai-shu.md)
+
+## 1. 简介
+
+* [1.1. 什么是 FreeBSD？](1.-jian-jie/1.1.-shi-mo-shi-freebsd.md)
+* [1.2. FreeBSD 项目的目标是什么？](1.-jian-jie/1.2.-freebsd-xiang-mu-de-mu-biao-shi-shi-mo.md)
+* [1.3. FreeBSD 的许可证是否有任何限制？](1.-jian-jie/1.3.-freebsd-de-xu-ke-zheng-shi-fou-you-ren-he-xian-zhi.md)
+* [1.4. FreeBSD 可以取代我目前的操作系统吗？](1.-jian-jie/1.4.-freebsd-ke-yi-qu-dai-wo-mu-qian-de-cao-zuo-xi-tong-ma.md)
+* [1.5. 为什么它被称为 FreeBSD？](1.-jian-jie/1.5.-wei-shi-mo-ta-bei-cheng-wei-freebsd.md)
+* [1.6. FreeBSD 和 NetBSD，OpenBSD，以及其他开源 BSD 操作系统之间有什么区别？](1.-jian-jie/1.6.-freebsd-he-netbsdopenbsd-yi-ji-qi-ta-kai-yuan-bsd-cao-zuo-xi-tong-zhi-jian-you-shi-mo-qu-bie.md)
+* [1.7. 最新的 FreeBSD 版本是什么？](1.-jian-jie/1.7.-zui-xin-de-freebsd-ban-ben-shi-shi-mo.md)
+* [1.8. 什么是 FreeBSD-CURRENT？](1.-jian-jie/1.8.-shi-mo-shi-freebsdcurrent.md)
+* [1.9. 什么是 FreeBSD-STABLE ？](1.-jian-jie/1.9.-shi-mo-shi-freebsdstable.md)
+* [1.10. 什么时候发布 FreeBSD？](1.-jian-jie/1.10.-shi-mo-shi-hou-fa-bu-freebsd.md)
+* [1.11. FreeBSD 的快照是什么时候制作的？](1.-jian-jie/1.11.-freebsd-de-kuai-zhao-shi-shi-mo-shi-hou-zhi-zuo-de.md)
+* [1.12. 谁对 FreeBSD 负责？](1.-jian-jie/1.12.-shui-dui-freebsd-fu-ze.md)
+* [1.13. 我在哪里可以得到 FreeBSD？](1.-jian-jie/1.13.-wo-zai-na-li-ke-yi-de-dao-freebsd.md)
+* [1.14. 我如何访问问题报告数据库？](1.-jian-jie/1.14.-wo-ru-he-fang-wen-wen-ti-bao-gao-shu-ju-ku.md)
+
+## 2. 文档和支持
+
+* [2.1. 有哪些关于 FreeBSD 的好书？](2.-wen-dang-he-zhi-chi/2.1.-you-na-xie-guan-yu-freebsd-de-hao-shu.md)
+* [2.2. 文件是否有其他格式，如纯文本（ASCII），或 PDF？](2.-wen-dang-he-zhi-chi/2.2.-wen-jian-shi-fou-you-qi-ta-ge-shi-ru-chun-wen-ben-ascii-huo-pdf.md)
+* [2.3. 我在哪里可以找到关于 FreeBSD 邮件列表的信息？有哪些 FreeBSD 的新闻组？](2.-wen-dang-he-zhi-chi/2.3.-wo-zai-na-li-ke-yi-zhao-dao-guan-yu-freebsd-you-jian-lie-biao-de-xin-xi-you-na-xie-freebsd-de-x.md)
+* [2.4. 是否有 FreeBSD IRC (Internet Relay Chat) 频道？](2.-wen-dang-he-zhi-chi/2.4.-shi-fou-you-freebsd-irc-internet-relay-chat-pin-dao.md)
+* [2.5. 是否有任何基于网络的论坛来讨论 FreeBSD？](2.-wen-dang-he-zhi-chi/2.5.-shi-fou-you-ren-he-ji-yu-wang-luo-de-lun-tan-lai-tao-lun-freebsd.md)
+* [2.6. 我在哪里可以得到商业化的 FreeBSD 培训和支持？](2.-wen-dang-he-zhi-chi/2.6.-wo-zai-na-li-ke-yi-de-dao-shang-ye-hua-de-freebsd-pei-xun-he-zhi-chi.md)
+
+## 3. 安装
+
+* [3.1. 我应该下载哪个平台？我有一个 64 位的 Intel® CPU，但我只看到 amd64。](3.-an-zhuang/3.1.-wo-ying-gai-xia-zai-na-ge-ping-tai-wo-you-yi-ge-64-wei-de-intel-cpu-dan-wo-zhi-kan-dao-amd64.md)
+* [3.2. 我应该下载哪个文件来获得 FreeBSD？](3.-an-zhuang/3.2.-wo-ying-gai-xia-zai-na-ge-wen-jian-lai-huo-de-freebsd.md)
+* [3.3. 如果安装镜像不能启动，我该怎么做？](3.-an-zhuang/3.3.-ru-guo-an-zhuang-jing-xiang-bu-neng-qi-dong-wo-gai-zen-mo-zuo.md)
+* [3.4. 安装 FreeBSD 的说明在哪里？](3.-an-zhuang/3.4.-an-zhuang-freebsd-de-shuo-ming-zai-na-li.md)
+* [3.5. 我怎样才能制作自己的定制发行盘或安装盘？](3.-an-zhuang/3.5.-wo-zen-yang-cai-neng-zhi-zuo-zi-ji-de-ding-zhi-fa-hang-pan-huo-an-zhuang-pan.md)
+* [3.6. Windows® 可以与 FreeBSD 共存吗？(x86 专用)](3.-an-zhuang/3.6.-windows-ke-yi-yu-freebsd-gong-cun-ma-x86-zhuan-yong.md)
+* [3.7. 另一个操作系统破坏了我的启动管理器。我怎样才能把它找回来？(x86 专用)](3.-an-zhuang/3.7.-ling-yi-ge-cao-zuo-xi-tong-po-huai-le-wo-de-qi-dong-guan-li-qi-wo-zen-yang-cai-neng-ba-ta-zhao.md)
+* [3.8. 我需要安装源代码吗？](3.-an-zhuang/3.8.-wo-xu-yao-an-zhuang-yuan-dai-ma-ma.md)
+* [3.9. 我需要建立一个内核吗？](3.-an-zhuang/3.9.-wo-xu-yao-jian-li-yi-ge-nei-he-ma.md)
+* [3.10. 我应该使用 DES、Blowfish 还是 MD5 密码，如何指定我的用户收到哪种形式的密码？](3.-an-zhuang/3.10.-wo-ying-gai-shi-yong-desblowfish-huan-shi-md5-mi-ma-ru-he-zhi-ding-wo-de-yong-hu-shou-dao-na-z.md)
+* [3.11. FFS 文件系统的限制是什么？](3.-an-zhuang/3.11.-ffs-wen-jian-xi-tong-de-xian-zhi-shi-shi-mo.md)
+* [3.12. 为什么我在编译和启动新的内核后得到一个错误信息，readin failed？](3.-an-zhuang/3.12.-wei-shi-mo-wo-zai-bian-yi-he-qi-dong-xin-de-nei-he-hou-de-dao-yi-ge-cuo-wu-xin-xi-readin-faile.md)
+* [3.13. 是否有一个工具来执行安装后的配置任务？](3.-an-zhuang/3.13.-shi-fou-you-yi-ge-gong-ju-lai-zhi-hang-an-zhuang-hou-de-pei-zhi-ren-wu.md)
+
+## 4. 硬件兼容性
+
+* [4.1. 一般情况](4.-ying-jian-jian-rong-xing/4.1.-yi-ban-qing-kuang.md)
+* [4.2. 架构和处理器](4.-ying-jian-jian-rong-xing/4.2.-jia-gou-he-chu-li-qi.md)
+* [4.3. 外围设备](4.-ying-jian-jian-rong-xing/4.3.-wai-wei-she-bei.md)
+* [4.4. 键盘和鼠标](4.-ying-jian-jian-rong-xing/4.4.-jian-pan-he-shu-biao.md)
+* [4.5. 其他硬件](4.-ying-jian-jian-rong-xing/4.5.-qi-ta-ying-jian.md)
+
+## 5. 故障排除
+
+* [5.1. 为什么 FreeBSD 在 i386™ 硬件上发现错误的内存量？](5.-gu-zhang-pai-chu/5.1.-wei-shi-mo-freebsd-zai-i386-ying-jian-shang-fa-xian-cuo-wu-de-nei-cun-liang.md)
+* [5.2. 为什么我的程序偶尔会出现 Signal 11 错误而死亡？](5.-gu-zhang-pai-chu/5.2.-wei-shi-mo-wo-de-cheng-xu-ou-er-hui-chu-xian-signal-11-cuo-wu-er-si-wang.md)
+* [5.3. 我的系统崩溃了，要么是 Fatal trap 12: kernel mode 中的 page fault，要么是 panic:，并吐出了一堆的信息。我应该怎么做？](5.-gu-zhang-pai-chu/5.3.-wo-de-xi-tong-beng-kui-le-yao-mo-shi-fatal-trap-12-kernel-mode-zhong-de-page-fault-yao-mo-shi-p.md)
+* [5.4. 错误 maxproc limit exceeded by uid %i, please see tuning(7) and login.conf(5) 是什么意思？](5.-gu-zhang-pai-chu/5.4.-cuo-wu-maxproc-limit-exceeded-by-uidiplease-see-tuning7-and-login.conf5-shi-shi-mo-yi-si.md)
+* [5.5. 为什么远程机器上的全屏应用程序会出现错误行为？](5.-gu-zhang-pai-chu/5.5.-wei-shi-mo-yuan-cheng-ji-qi-shang-de-quan-ping-ying-yong-cheng-xu-hui-chu-xian-cuo-wu-hang-wei.md)
+* [5.6. 为什么通过 ssh 或 telnet 连接到我的电脑需要这么长时间？](5.-gu-zhang-pai-chu/5.6.-wei-shi-mo-tong-guo-ssh-huo-telnet-lian-jie-dao-wo-de-dian-nao-xu-yao-zhe-mo-chang-shi-jian.md)
+* [5.7. 为什么在 dmesg(8)中反复出现 file: table is full?](5.-gu-zhang-pai-chu/5.7.-wei-shi-mo-zai-dmesg8-zhong-fan-fu-chu-xian-file-table-is-full.md)
+* [5.8. 为什么我的电脑上时钟的时间不正确？](5.-gu-zhang-pai-chu/5.8.-wei-shi-mo-wo-de-dian-nao-shang-shi-zhong-de-shi-jian-bu-zheng-que.md)
+* [5.9. 错误 swap\_pager: indefinite wait buffer: 是什么意思？](5.-gu-zhang-pai-chu/5.9.-cuo-wu-swappager-indefinite-wait-buffer-shi-shi-mo-yi-si.md)
+* [5.10. 什么是锁单反转？](5.-gu-zhang-pai-chu/5.10.-shi-mo-shi-suo-dan-fan-zhuan.md)
+* [5.11. Called ... with the following non-sleepable locks held 是什么意思？](5.-gu-zhang-pai-chu/5.11.-called-...-with-the-following-nonsleepable-locks-held-shi-shi-mo-yi-si.md)
+* [5.12. 为什么 buildworld/installworld 会死于 touch: not found 信息？](5.-gu-zhang-pai-chu/5.12.-wei-shi-mo-buildworldinstallworld-hui-si-yu-touch-not-found-xin-xi.md)
+
+## 6. 用户应用
+
+* [6.1. 所有的用户应用程序都在哪里？](6.-yong-hu-ying-yong/6.1.-suo-you-de-yong-hu-ying-yong-cheng-xu-du-zai-na-li.md)
+* [6.2. 我怎样才能下载 Ports 树？我应该使用 Git 吗？](6.-yong-hu-ying-yong/6.2.-wo-zen-yang-cai-neng-xia-zai-ports-shu-wo-ying-gai-shi-yong-git-ma.md)
+* [6.3. 为什么我不能在我的 12.X -， 或 13.X -STABLE 机器上构建这个 port？](6.-yong-hu-ying-yong/6.3.-wei-shi-mo-wo-bu-neng-zai-wo-de-12.x-huo-13.x-stable-ji-qi-shang-gou-jian-zhe-ge-port.md)
+* [6.4. 我刚刚尝试用 make index 来构建 INDEX，结果失败了。为什么？](6.-yong-hu-ying-yong/6.4.-wo-gang-gang-chang-shi-yong-make-index-lai-gou-jian-index-jie-guo-shi-bai-le-wei-shi-mo.md)
+* [6.5. 我更新了源代码， 现在我如何更新我所安装的 port 呢？](6.-yong-hu-ying-yong/6.5.-wo-geng-xin-le-yuan-dai-ma-xian-zai-wo-ru-he-geng-xin-wo-suo-an-zhuang-de-port-ni.md)
+* [6.6. 我是否需要在每次进行重大版本更新时重新编译每个 port？](6.-yong-hu-ying-yong/6.6.-wo-shi-fou-xu-yao-zai-mei-ci-jin-hang-zhong-da-ban-ben-geng-xin-shi-zhong-xin-bian-yi-mei-ge-po.md)
+* [6.7. 我是否需要在每次进行小版本更新时重新编译每个 port？](6.-yong-hu-ying-yong/6.7.-wo-shi-fou-xu-yao-zai-mei-ci-jin-hang-xiao-ban-ben-geng-xin-shi-zhong-xin-bian-yi-mei-ge-port.md)
+* [6.8. 为什么 /bin/sh 这么小？为什么 FreeBSD 不使用 bash 或其他 shell？](6.-yong-hu-ying-yong/6.8.-wei-shi-mo-binsh-zhe-mo-xiao-wei-shi-mo-freebsd-bu-shi-yong-bash-huo-qi-ta-shell.md)
+
+## 7. 内核配置
+
+* [7.1. 我想定制我的内核。这很困难吗？](7.-nei-he-pei-zhi/7.1.-wo-xiang-ding-zhi-wo-de-nei-he-zhe-hen-kun-nan-ma.md)
+* [7.2. 为什么我的内核这么大？](7.-nei-he-pei-zhi/7.2.-wei-shi-mo-wo-de-nei-he-zhe-mo-da.md)
+* [7.3. 为什么我尝试构建的每一个内核都不能编译，甚至是 GENERIC？](7.-nei-he-pei-zhi/7.3.-wei-shi-mo-wo-chang-shi-gou-jian-de-mei-yi-ge-nei-he-du-bu-neng-bian-yi-shen-zhi-shi-generic.md)
+* [7.4. 在运行中的系统上使用的是哪个调度器？](7.-nei-he-pei-zhi/7.4.-zai-yun-hang-zhong-de-xi-tong-shang-shi-yong-de-shi-na-ge-tiao-du-qi.md)
+* [7.5. 什么是 kern.sched.quantum？](7.-nei-he-pei-zhi/7.5.-shi-mo-shi-kern.sched.quantum.md)
+
+## 8. 磁盘、文件系统和启动加载器
+
+* [8.1. 如何将我的新硬盘添加到我的 FreeBSD 系统中？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.1.-ru-he-jiang-wo-de-xin-ying-pan-tian-jia-dao-wo-de-freebsd-xi-tong-zhong.md)
+* [8.2. 我如何将我的系统转移到我巨大的新磁盘上？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.2.-wo-ru-he-jiang-wo-de-xi-tong-zhuan-yi-dao-wo-ju-da-de-xin-ci-pan-shang.md)
+* [8.3. 哪些分区可以安全地使用软更新？我听说/上的软更新会导致问题。那么，日志式软更新呢？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.3.-na-xie-fen-qu-ke-yi-an-quan-di-shi-yong-ruan-geng-xin-wo-ting-shuo-shang-de-ruan-geng-xin-hui-d.md)
+* [8.4. 我可以在 FreeBSD 下挂载其他外部文件系统吗？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.4.-wo-ke-yi-zai-freebsd-xia-gua-zai-qi-ta-wai-bu-wen-jian-xi-tong-ma.md)
+* [8.5. 我如何挂载一个二级 DOS 分区？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.5.-wo-ru-he-gua-zai-yi-ge-er-ji-dos-fen-qu.md)
+* [8.6. 是否有一个用于 FreeBSD 的加密文件系统？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.6.-shi-fou-you-yi-ge-yong-yu-freebsd-de-jia-mi-wen-jian-xi-tong.md)
+* [8.7. 我如何使用 GRUB 启动 FreeBSD 和 Linux®？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.7.-wo-ru-he-shi-yong-grub-qi-dong-freebsd-he-linux.md)
+* [8.8. 如何使用 BootEasy 启动 FreeBSD 和 Linux®？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.8.-ru-he-shi-yong-booteasy-qi-dong-freebsd-he-linux.md)
+* [8.9. 我如何将启动提示从???改为更有意义的东西？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.9.-wo-ru-he-jiang-qi-dong-ti-shi-cong-gai-wei-geng-you-yi-yi-de-dong-xi.md)
+* [8.10. 如何使用新的可移动硬盘？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.10.-ru-he-shi-yong-xin-de-ke-yi-dong-ying-pan.md)
+* [8.11. 为什么我在挂载光盘时得到不正确的超级块？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.11.-wei-shi-mo-wo-zai-gua-zai-guang-pan-shi-de-dao-bu-zheng-que-de-chao-ji-kuai.md)
+* [8.12. 为什么我在挂载光盘时得到 “设备未配置”的提示？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.12.-wei-shi-mo-wo-zai-gua-zai-guang-pan-shi-de-dao-she-bei-wei-pei-zhi-de-ti-shi.md)
+* [8.13. 为什么在 FreeBSD 中挂载的 CD 上，文件名中的所有非英文字符都显示为?](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.13.-wei-shi-mo-zai-freebsd-zhong-gua-zai-de-cd-shang-wen-jian-ming-zhong-de-suo-you-fei-ying-wen-z.md)
+* [8.14. 在 FreeBSD 下刻录的光盘不能在任何其他操作系统下读取。为什么呢？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.14.-zai-freebsd-xia-ke-lu-de-guang-pan-bu-neng-zai-ren-he-qi-ta-cao-zuo-xi-tong-xia-du-qu-wei-shi.md)
+* [8.15. 我怎样才能创建数据光盘的镜像？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.15.-wo-zen-yang-cai-neng-chuang-jian-shu-ju-guang-pan-de-jing-xiang.md)
+* [8.16. 为什么我不能挂载音频 CD？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.16.-wei-shi-mo-wo-bu-neng-gua-zai-yin-pin-cd.md)
+* [8.17. 如何挂载一张多会话光盘？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.17.-ru-he-gua-zai-yi-zhang-duo-hui-hua-guang-pan.md)
+* [8.18. 如何让普通用户挂载 CD-ROM、DVD、USB 驱动器和其他可移动媒体？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.18.-ru-he-rang-pu-tong-yong-hu-gua-zai-cdromdvdusb-qu-dong-qi-he-qi-ta-ke-yi-dong-mei-ti.md)
+* [8.19.  命令 du 和 df 显示了不同数量的可用磁盘空间。发生了什么事？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.19.-ming-ling-du-he-df-xian-shi-le-bu-tong-shu-liang-de-ke-yong-ci-pan-kong-jian-fa-sheng-le-shi-m.md)
+* [8.20. 我怎样才能增加更多的交换空间？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.20.-wo-zen-yang-cai-neng-zeng-jia-geng-duo-de-jiao-huan-kong-jian.md)
+* [8.21. 为什么 FreeBSD 认为我的磁盘比制造商说的要小？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.21.-wei-shi-mo-freebsd-ren-wei-wo-de-ci-pan-bi-zhi-zao-shang-shuo-de-yao-xiao.md)
+* [8.22. 一个分区怎么可能超过 100% 的容量？](8.-ci-pan-wen-jian-xi-tong-he-qi-dong-jia-zai-qi/8.22.-yi-ge-fen-qu-zen-mo-ke-neng-chao-guo-100-de-rong-liang.md)
+
+## 9. ZFS
+
+* [9.1. 运行 ZFS 所需的最小内存量是多少？](9.-zfs/9.1.-yun-hang-zfs-suo-xu-de-zui-xiao-nei-cun-liang-shi-duo-shao.md)
+* [9.2. 什么是 ZIL，它在什么时候被使用？](9.-zfs/9.2.-shi-mo-shi-zil-ta-zai-shi-mo-shi-hou-bei-shi-yong.md)
+* [9.3. 我需要为 ZIL 配备固态硬盘吗？](9.-zfs/9.3.-wo-xu-yao-wei-zil-pei-bei-gu-tai-ying-pan-ma.md)
+* [9.4. 什么是 L2ARC？](9.-zfs/9.4.-shi-mo-shi-l2arc.md)
+* [9.5. 启用重复数据删除功能是否可取？](9.-zfs/9.5.-qi-yong-zhong-fu-shu-ju-shan-chu-gong-neng-shi-fou-ke-qu.md)
+* [9.6. 我不能在我的 ZFS 池上删除或创建文件。我怎样才能解决这个问题？](9.-zfs/9.6.-wo-bu-neng-zai-wo-de-zfs-chi-shang-shan-chu-huo-chuang-jian-wen-jian-wo-zen-yang-cai-neng-jie-j.md)
+* [9.7. ZFS 是否支持固态硬盘的 TRIM？](9.-zfs/9.7.-zfs-shi-fou-zhi-chi-gu-tai-ying-pan-de-trim.md)

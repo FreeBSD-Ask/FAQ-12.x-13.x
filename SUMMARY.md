@@ -1,6 +1,7 @@
 # Table of contents
 
-* [FAQ-12.x-13.x](README.md)
+* [FreeBSD 12.X 和 13.X 常问问题](README.md)
+* [FreeBSD 12.X 和 13.X FAQ](freebsd-12.x-he-13.x-faq.md)
 * [概述](gai-shu.md)
 
 ## 1. 简介

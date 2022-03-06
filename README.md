@@ -1,4 +1,4 @@
-# FreeBSD 12.X 和 13.X 常问问题
+# FreeBSD 12.X 和 13.X FQA 2022 FreeBSD 中文社区（CFC）中文翻译项目
 
 本文译者 - 、ykla
 

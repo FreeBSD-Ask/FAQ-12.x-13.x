@@ -170,10 +170,6 @@
 * [11.15. 我可以在 X 中使用键盘上的 Windows 键吗？](11.x-chuang-kou-xi-tong-he-xu-ni-kong-zhi-tai/11.15.-wo-ke-yi-zai-x-zhong-shi-yong-jian-pan-shang-de-windows-jian-ma.md)
 * [11.16. 我怎样才能获得 OpenGL® 的 3D 硬件加速？](11.x-chuang-kou-xi-tong-he-xu-ni-kong-zhi-tai/11.16.-wo-zen-yang-cai-neng-huo-de-opengl-de-3d-ying-jian-jia-su.md)
 
-***
-
-* [FAQ-12.x-13.x](faq-12.x-13.x.md)
-
 ## 12. 网络
 
 * [12.1. 我在哪里可以得到关于无盘启动的信息？](12.-wang-luo/12.1.-wo-zai-na-li-ke-yi-de-dao-guan-yu-wu-pan-qi-dong-de-xin-xi.md)

@@ -22,7 +22,7 @@
 
 有些人认为有英语不需要翻译，看不懂的人就不配学习 FreeBSD。FreeBSD 也并非专门为了某些精英而创设，不懂英语是一件很正常的事情，不同的语言有不同的世界观，只有经过翻译才能让更多普通人走近 FreeBSD，发展 FreeBSD，结缘 FreeBSD。你懂英语，别人不一定懂，不能用你的标准去衡量所有人。FreeBSD 项目组从未说过不懂英语就无法使用 FreeBSD 这种话。
 
-还有些人认为与其翻译不如我们自己去写原创性的文章，其实翻译他，恰恰是为了更好地撰写原创性的文章，我们的另一个项目——[《FreeBSD 从入门到跑路》](https://github.com/FreeBSD-Ask/FreeBSD-Ask)目标就是包括所有文档有与无的内容。我们认为，翻译文档和贡献代码是同样重要的事情；如果您有原创教程，那我们有教程征集计划——https://docs.qq.com/doc/DSUJsUFBHTnVWQmtS
+还有些人认为与其翻译不如我们自己去写原创性的文章，其实翻译他，恰恰是为了更好地撰写原创性的文章，我们的另一个项目——[《FreeBSD 从入门到跑路》](https://github.com/FreeBSD-Ask/FreeBSD-Ask)目标就是包括所有文档有与无的内容。我们认为，翻译文档和贡献代码是同样重要的事情；如果您有原创教程，那我们有教程征集计划——<https://docs.qq.com/doc/DSUJsUFBHTnVWQmtS>
 最重要的是，我们的进程已经过半。现在还在纠结这个问题这无异于在中国哲学史课程快要上完的时候还在讨论中国到底有没有哲学。
 
 ## Q：本项目为什么不能向 FreeBSD 上游进行合并？
@@ -40,18 +40,18 @@
 
 # 翻译指南
 
-https://docs.qq.com/doc/DSUtxYmVwU29EdGVn
+<https://docs.qq.com/doc/DSUtxYmVwU29EdGVn>
 
 # 简介
 来到这里你可能什么也得不到。也将不会失去任何东西。FreeBSD 中文用户社区！恪守古老的法则，追寻真正的自由。BSD 方为真正 UNIX 哲学继承者。加入我们，共同推进 FreeBSD 中国化与世界化。
 
 QQ 群 905149943
 
-社区协作 FreeBSD 入门参考书籍 https://book.freebsdcn.org
+社区协作 FreeBSD 入门参考书籍 <https://book.freebsdcn.org>
 
-社区：https://freebsdcn.org
+社区：<https://freebsdcn.org>
 
-Telegram 群 https://t.me/freebsdba
+Telegram 群 <https://t.me/freebsdba>
 
 微信公众号：freebsdzh
 
@@ -67,5 +67,5 @@ Telegram 群 https://t.me/freebsdba
 >
 >**我希望有更多的人参与进来，一起协作这个开源项目。英语水平和计算机水平固然重要，但是翻译凭借的不是傲慢与偏见，不是苦难哲学，也不是泥潭般的社区，更不是所谓的巨苣，而是我们的心，翻译是用心来完成的！用心，每个人都可以参与，无论是错别字的修正还是大章节的翻译，都是有意义的。**
 >
->想参加的朋友可以看看 https://docs.qq.com/doc/DSUtxYmVwU29EdGVn
+>想参加的朋友可以看看 <https://docs.qq.com/doc/DSUtxYmVwU29EdGVn>
 
